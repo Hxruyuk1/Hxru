@@ -1,6 +1,6 @@
 import Image from "next/image"
-import Slide1 from '../../public/Slide1.jpg'
-import Slide2 from '../../public/Slide2.jpg'
+import Slide1 from '../../public/Cer.png'
+import Slide2 from '../../public/Cer.png'
 
 export default function Carousel() {
   return (
